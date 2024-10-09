@@ -34,7 +34,8 @@ int main()
 	increment();
 	increment();
 	increment();
-
+	printf("\n");
+	
 	return 0;
 }
 
